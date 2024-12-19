@@ -17,7 +17,7 @@
     "svelte": "^4.2.19"
   },
   "dependencies": {
-    "axios": "^1.6.0",
+    "axios": "^1.7.4",
     "sirv-cli": "^0.4.4",
     "svelte-spa-router": "^3.2.0",
     "sweetalert": "^2.1.2"
