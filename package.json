@@ -14,7 +14,7 @@
     "rollup-plugin-livereload": "^1.0.0",
     "rollup-plugin-svelte": "^7.1.0",
     "rollup-plugin-terser": "^5.1.2",
-    "svelte": "^3.49.0"
+    "svelte": "^4.2.19"
   },
   "dependencies": {
     "axios": "^1.6.0",
